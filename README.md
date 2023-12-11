@@ -1,8 +1,7 @@
 Hello, world ;-)
 
 I'm Jay,
-  I'm a web developer and programmer who is based in Los Angeles. I have an interest in the visual arts.
-  This is my Github! Please help me learn how to be a coder--visual arts are not lucrative!
+  I have an interest in the visual arts, in music, and in computer generated graphics and 3D applications. I was inspired to learn how to program by the Blender community, and by my love for video games.
 
 Thank you
 
