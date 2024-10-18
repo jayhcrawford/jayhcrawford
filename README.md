@@ -1,9 +1,12 @@
 # Visual Artist, Web Programmer
   My technical digital skills are mainly within the Adobe Suite, but I am thrilled to be learning how to program. I started FreeCodeCamp in October of 2023.
   
-  Programming and electronic diagrams have always seemed Greek to me, and I love a challenge. 
+  Seven years ago, I moved to Los Angeles to be an actor. 
+  Now, after years of acting classes, improv classes, and gigs around the city I've done amazing stuff. I'm SAG-Eligible. I've worked behind the scenes or companies like History and Netflix. 
   
-  I'm taking engineering classes right now in the Los Angeles City College District
+  I want to use another part of my brain. Programming and electronic diagrams have always seemed Greek to me, and I love a challenge. I'm taking engineering classes right now in the Los Angeles City College District.
+
+  I believe in growth and challenge.
 
 
 ## It's my seventh year in LA and I'm very excited about some projects!
