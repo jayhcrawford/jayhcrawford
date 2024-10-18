@@ -1,7 +1,5 @@
 # Visual Artist, Web Programmer
-  When I was a kid, I would dissasemble electronics, build websites, and get into all kinds of techno-creative hijinx.
-
-  My technical digital skills are mainly within the Adobe Suite, but I am thrilled to be learning how to program.
+  My technical digital skills are mainly within the Adobe Suite, but I am thrilled to be learning how to program. I started FreeCodeCamp in October of 2023.
   
   Programming and electronic diagrams have always seemed Greek to me, and I love a challenge. 
   
