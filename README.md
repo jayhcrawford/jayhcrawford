@@ -2,5 +2,6 @@ Visual artist, programmer, and electrical engineering student interested in deve
 
 <a href="https://jayhcrawford.github.io/">Visit my Github pages to see art, design, drawing, and other explorations of mine</a>
 
-***Check out my web app in development in the UrFriends.beta repository below***
-<img src="https://jayhcrawford-webimages.s3.us-east-2.amazonaws.com/UrFriends/wireframe-low-res.jpg" />
+***UrFriends is currently my primary project***
+It's organization repo and a link to the latest beta deployment are here:
+<a href="https://github.com/UrFriends/">UrFriends Organization</a>
